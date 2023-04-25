@@ -1,1 +1,2 @@
-# Js-3rd
+# Learner-Js
+Javascript by John Pollock 3rd Edition
